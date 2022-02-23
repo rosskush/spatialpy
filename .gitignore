@@ -1,0 +1,5 @@
+build/
+dist/
+pycache*
+spatialpy.egg-info/
+
